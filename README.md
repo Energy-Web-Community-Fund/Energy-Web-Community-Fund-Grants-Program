@@ -71,9 +71,9 @@ As applicants complete and report their milestones, the remaining grant tranches
 
 TBD
 
-My application was unsuccessful, can I apply again?
-Is it possible to require additional funding once the project is completed?
-What happens if I encounter obstacles that inhibit my ability to deliver the project?
+- My application was unsuccessful, can I apply again?
+- Is it possible to require additional funding once the project is completed?
+- What happens if I encounter obstacles that inhibit my ability to deliver the project?
 
 ### Team
 TBD
