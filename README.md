@@ -39,9 +39,9 @@ Make sure to keep an eye out for calls under specific topics. These will be publ
 The Community Fund Committee is embodied by a set of validator organizations that manage the Grant Program on behalf of the EWC Validators. The CFC will be responsible for managing the application process and administering grants. 
 
 ### Contact details
-TBD
 If you have any questions or need support in submitting an application, do not hesitate to reach out to:
-Contact details
+
+TBD
 
 You can also check out the FAQ section below.
 
@@ -132,7 +132,7 @@ The Evaluation Criteria are outlined in the Program Guidelines.
 
 #### Application template
 
-TBD 
+TODO: Merge the application template on Github with the one below. Afterwards delete this section.
 
 Please use the standard template for applications provided [here](https://docs.google.com/document/d/1soD3nFmDiAdLZUpYVfeCCDh-lnZs7e3d/edit?usp=sharing&ouid=114548433570699112189&rtpof=true&sd=true)   
 
