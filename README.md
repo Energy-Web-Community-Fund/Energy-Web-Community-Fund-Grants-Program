@@ -6,8 +6,10 @@
 
 
 - [:wave: Introduction](#wave-introduction)
+  - [Scope](#scope)
+  - [Community Fund Committee](#community-fund-committee)
+  - [Contact Details](#contact-details)
   - [Guidelines](#guidelines)
-  - [Project Ideas](#project-ideas)
   - [Team](#team)
 - [:level\_slider: Grant Levels](#level_slider-grant-levels)
 - [:pencil: Process](#pencil-process)
@@ -37,6 +39,7 @@ Make sure to keep an eye out for calls under specific topics. These will be publ
 The Community Fund Committee is embodied by a set of validator organizations that manage the Grant Program on behalf of the EWC Validators. The CFC will be responsible for managing the application process and administering grants. 
 
 ### Contact details
+TBD
 If you have any questions or need support in submitting an application, do not hesitate to reach out to:
 Contact details
 
@@ -48,36 +51,7 @@ Make sure to read the Grant Program Guidelines before submitting your applicatio
 
 You can review the application guidelines in full [here](https://docs.google.com/document/d/1wYILnQUqaFfFPBqmOkAq3mG0Yn1x5Z9w/edit#) 
 
-### Application process
-#### Application review
-
-An initial formal review will be conducted to see if all formal requirements were included in the application.
-A qualitative evaluation will follow, applications will be thoroughly assessed and applicants will likely be required to provide additional information. 
-The Evaluation Criteria are outlined in the Program Guidelines. 
-
-#### Application template
-
-Please use the standard template for applications provided [here](https://docs.google.com/document/d/1soD3nFmDiAdLZUpYVfeCCDh-lnZs7e3d/edit?usp=sharing&ouid=114548433570699112189&rtpof=true&sd=true)   
-
-#### Decision 
-
-Whether successful or not, the Community Fund Committee or the EWC Validators complete the application and will communicate their decision to the applicant after the review is complete.
-If an application is successful and approved, applicants will be entitled to receive 10% as an initial tranche of the grant.
-
-#### Milestone delivery and payment
-As applicants complete and report their milestones, the remaining grant tranches will be liberated and delivered to the applicants. 
-
-### FAQs 
-
-TBD
-
-- My application was unsuccessful, can I apply again?
-- Is it possible to require additional funding once the project is completed?
-- What happens if I encounter obstacles that inhibit my ability to deliver the project?
-
 ### Team
-TBD
-
 #### Energy Web Community Fund Grants Committee<!-- omit in toc -->
 
 The committee consists of individuals who know the funding priorities of the Energy Web ecosystem, and is responsible for evaluating grant applications and providing feedback on these.
@@ -119,20 +93,19 @@ Applications in this category should consider:
 - Applications will be voted by the whole EWC Validator Community.
 - Applicants will need to be endorsed by one active EWC Validator.
 
-## :pencil: Process
+## :pencil: Application Process
 
 > **:loudspeaker:** The process below is independent of the [level](#level_slider-levels). All payments are made in EWT.
-
 ### 1. Application
 
-   0. Please read our [FAQs](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/docs/faq.md), [category guidelines](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/docs/Support%20Docs/grant_guidelines_per_category.md), [announcement guidelines](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/docs/Support%20Docs/announcement-guidelines.md) and [Terms & Conditions](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/docs/Support%20Docs/T%26Cs.md) to familiarize yourself with the subtleties of grants, applications and the program as a whole.
-   1. [Fork](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/fork) this repository.
-   2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)). If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/Energy-Web-Community-Fund/Grants-Program/master/applications/application-template.md) of the template inside the new one. Make sure you **do not modify the template file directly**. In the case of a maintenance application, use the maintenance template ([`maintenance template`](applications/maintenance/maintenance-template.md)) instead. In the case of a research application, use the research template ([`research template`](applications/application-template-research.md)) instead.
-   3. Name the new file after your project: `project_name.md`.
-   4. Fill out the template with the details of your project. The more information you provide, the faster the review. Please refer to our [Grant guidelines for most popular grant categories](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/docs/Support%20Docs/grant_guidelines_per_category.md) and make sure your deliverables present a similar same level of detail. To get an idea of what a strong application looks like, you can have a look at the following examples:  [1](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/applications/project_aurras_mvp_phase_1.md), [2](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/applications/project_bodhi.md), [3](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/applications/pontem.md), [4](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/applications/spartan_poc_consensus_module.md). Naturally, if you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
-   5. Once you're done, create a pull request in **our** main [Grants-Program repository](https://github.com/Energy-Web-Community-Fund/Grant-Milestone-Delivery/blob/master/README.md). The pull request should only contain _one new file_—the Markdown file you created from the template.
-   6. You will see a comment template that contains a checklist. You can leave it as is and tick the checkboxes once the pull request has been created. Please read through these items and check all of them.
-   7. Sign off on the [terms and conditions](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/docs/Support%20Docs/T%26Cs.md) presented by the [CLA assistant](https://github.com/claassistantio) bot as a Contributor License Agreement. You might need to reload the pull request to see its comment.
+   1. Please read our [FAQs](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/docs/faq.md), [category guidelines](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/docs/Support%20Docs/grant_guidelines_per_category.md), [announcement guidelines](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/docs/Support%20Docs/announcement-guidelines.md) and [Terms & Conditions](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/docs/Support%20Docs/T%26Cs.md) to familiarize yourself with the subtleties of grants, applications and the program as a whole.
+   2. [Fork](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/fork) this repository.
+   3. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)). If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/Energy-Web-Community-Fund/Grants-Program/master/applications/application-template.md) of the template inside the new one. Make sure you **do not modify the template file directly**. In the case of a maintenance application, use the maintenance template ([`maintenance template`](applications/maintenance/maintenance-template.md)) instead. In the case of a research application, use the research template ([`research template`](applications/application-template-research.md)) instead.
+   4. Name the new file after your project: `project_name.md`.
+   5. Fill out the template with the details of your project. The more information you provide, the faster the review. Please refer to our [Grant guidelines for most popular grant categories](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/docs/Support%20Docs/grant_guidelines_per_category.md) and make sure your deliverables present a similar same level of detail. To get an idea of what a strong application looks like, you can have a look at the following examples:  [1](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/applications/project_aurras_mvp_phase_1.md), [2](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/applications/project_bodhi.md), [3](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/applications/pontem.md), [4](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/applications/spartan_poc_consensus_module.md). Naturally, if you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
+   6. Once you're done, create a pull request in **our** main [Grants-Program repository](https://github.com/Energy-Web-Community-Fund/Grant-Milestone-Delivery/blob/master/README.md). The pull request should only contain _one new file_—the Markdown file you created from the template.
+   7. You will see a comment template that contains a checklist. You can leave it as is and tick the checkboxes once the pull request has been created. Please read through these items and check all of them.
+   8. Sign off on the [terms and conditions](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/blob/master/docs/Support%20Docs/T%26Cs.md) presented by the [CLA assistant](https://github.com/claassistantio) bot as a Contributor License Agreement. You might need to reload the pull request to see its comment.
 
 ### 2. Application Review
 
@@ -150,6 +123,34 @@ Applications in this category should consider:
 - Accepted grant applications can be amended at any time. However, this _necessitates a reevaluation by the committee_ and the same number of approvals as an application (according to the [levels](#level_slider-levels)). If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application. This also applies in case of significant delays.
 - If your _delivery schedule_ significantly changes, please also open a pull request with an updated timeline.
 - If your deliveries are significantly delayed and we cannot get a hold of you, we will terminate the grant (3 approvals required, regardless of level. If a member of the committee creates the termination PR, only 2 more approvals are required).
+
+#### Application review
+
+An initial formal review will be conducted to see if all formal requirements were included in the application.
+A qualitative evaluation will follow, applications will be thoroughly assessed and applicants will likely be required to provide additional information. 
+The Evaluation Criteria are outlined in the Program Guidelines. 
+
+#### Application template
+
+TBD 
+
+Please use the standard template for applications provided [here](https://docs.google.com/document/d/1soD3nFmDiAdLZUpYVfeCCDh-lnZs7e3d/edit?usp=sharing&ouid=114548433570699112189&rtpof=true&sd=true)   
+
+#### Decision 
+
+Whether successful or not, the Community Fund Committee or the EWC Validators complete the application and will communicate their decision to the applicant after the review is complete.
+If an application is successful and approved, applicants will be entitled to receive 10% as an initial tranche of the grant.
+
+#### Milestone delivery and payment
+As applicants complete and report their milestones, the remaining grant tranches will be liberated and delivered to the applicants. 
+
+### FAQs 
+
+TBD
+
+- My application was unsuccessful, can I apply again?
+- Is it possible to require additional funding once the project is completed?
+- What happens if I encounter obstacles that inhibit my ability to deliver the project?
 
 ## :mailbox_with_mail: Suggest a Project
 
