@@ -41,7 +41,7 @@ The Community Fund Committee is embodied by a set of validator organizations tha
 ### Contact details
 If you have any questions or need support in submitting an application, do not hesitate to reach out to:
 
-TBD
+cfgrants [AT] energyweb [DOT] org
 
 You can also check out the FAQ section below.
 
