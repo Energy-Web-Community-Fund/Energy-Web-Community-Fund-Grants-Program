@@ -40,7 +40,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Web3 Foundation Grants">
+      description="EW Community Fund Committee Grants">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

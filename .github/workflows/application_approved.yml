@@ -26,5 +26,5 @@ jobs:
           token: ${{ secrets.MATRIX_TOKEN }}
           channel: ${{ secrets.MATRIX_CHANNEL_ID }}
           message: |
-            PR APPROVED: [${{ github.event.pull_request.title }}](https://github.com/w3f/Grants-Program/pull/${{ github.event.pull_request.number }}) has been approved by ${{ github.event.review.user.login }}. 
+            PR APPROVED: [${{ github.event.pull_request.title }}](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/pull/${{ github.event.pull_request.number }}) has been approved by ${{ github.event.review.user.login }}. 
             Approvals: ${{ steps.reviews.outputs.approved }}/${{ env.APPROVALS }}

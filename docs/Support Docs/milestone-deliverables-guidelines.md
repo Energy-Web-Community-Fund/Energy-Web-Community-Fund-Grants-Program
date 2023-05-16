@@ -4,11 +4,11 @@ These are the guidelines to be followed for milestones submitted for evaluation.
 
 ## Submission
 
-Please submit all your milestones via PR to the [Grant Milestone Delivery repository](https://github.com/w3f/Grant-Milestone-Delivery).
+Please submit all your milestones via PR to the [Grant Milestone Delivery repository](https://github.com/Energy-Web-Community-Fund/Grant-Milestone-Delivery).
 
 ## Invoice
 
-Although a milestone needs to be reviewed and accepted, you can already submit your invoice through [this form](https://docs.google.com/forms/d/e/1FAIpQLSfmNYaoCgrxyhzgoKQ0ynQvnNRoTmgApz9NrMp-hd8mhIiO0A/viewform).
+Once a milestone is reviewed and accepted, you can submit your invoice through to cfgrants [AT] energyweb [DOT] org.
 
 ## Content
 
@@ -48,11 +48,7 @@ Unless absolutely necessary, make the documentation public as well, ideally as p
 A codebase that is easy to read is also easy to use. We suggest adopting one style from Day 1 and adhering to it across the entire team.
 This helps to keep the commit history clean and facilitates any reviews of the introduced changes.
 
-For **Substrate**, we strongly recommend formatting your code according to the [official guidelines](https://github.com/paritytech/substrate/blob/master/docs/STYLE_GUIDE.md).
-
-For **Rust**, we encourage formatting any additional support libraries or helpers by following the [Style Guidelines](https://doc.rust-lang.org/1.0.0/style/README.html).
-
-For **any other** deliveries, please commit to a particular style & let us know which official guidelines you adopt.
+For **any** deliveries, please commit to a particular style & let us know which official guidelines you adopt.
 
 ## Testing Guide
 

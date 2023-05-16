@@ -19,7 +19,6 @@
   - [Changes to a Grant after Approval](#changes-to-a-grant-after-approval)
 - [:mailbox\_with\_mail: Suggest a Project](#mailbox_with_mail-suggest-a-project)
 - [:hammer\_and\_wrench: Maintenance Grants](#hammer_and_wrench-maintenance-grants)
-- [:moneybag: Referral Program](#moneybag-referral-program)
 - [:bulb: Help](#bulb-help)
   - [Real-time Conversation](#real-time-conversation)
   - [Office Hours](#office-hours)
@@ -174,7 +173,7 @@ Ideas generally have better chances of being implemented if they're presented in
 
 ## :hammer_and_wrench: Maintenance Grants
 
-Maintenance Grants are yet another idea to get involved with the Polkadot community. If you are a user of an open-source library that has gone out of date, or you simply want to work on small new features/fix bugs in these repos, we can support your contributions via a grant. We are happy to award rolling grants on a monthly basis, as long as the work done within each time period is performed to a quality standard deemed satisfactory by the grant evaluators.
+Maintenance Grants are yet another idea to get involved with the Energy Web Chain community. If you are a user of an open-source library that has gone out of date, or you simply want to work on small new features/fix bugs in these repos, we can support your contributions via a grant. We are happy to award rolling grants on a monthly basis, as long as the work done within each time period is performed to a quality standard deemed satisfactory by the grant evaluators.
 
 The process of applying for a Maintenance Grant is similar to what was already outlined above, but instead of defining very detailed deliverables for each milestone upfront, we will ask you to specify, where possible:
 
@@ -192,13 +191,6 @@ Please note that:
 - The 1-month timeframe is just a guideline. If you find it unsuitable for you or the chosen project for any reason, feel free to adjust as seen fit and point this out in your application.
 - Please bear in mind that the Grants Committee might be stricter in accepting maintainers when compared to typical grants, mostly selecting for applicants with proven experience in the relevant tech stacks.
 - Maintenance Grants are only awarded for fixed timeframes. The requested duration needs to be specified in the application.
-
-## :moneybag: Referral Program
-
-We give away 500 USD to each referral of a successful grant application by _anyone having previously worked on a EW Community Fund grant_. Energy Web Foundation do not qualify for the program, even if they previously worked on a grant.
-
-In order to be eligible for the referral bonus, the application itself must contain the name of the GitHub account of the grantee as well as the payment address for the referral bonus (see the [application template](applications/application-template.md)). Payment is made in EWT.
-
 ## :bulb: Help
 
 ### Real-time Conversation

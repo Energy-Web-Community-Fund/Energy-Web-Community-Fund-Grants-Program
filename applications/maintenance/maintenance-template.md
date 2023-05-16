@@ -2,11 +2,11 @@
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
 >
-> See the [Maintenance Grants Process](https://github.com/w3f/Grants-Program#hammer_and_wrench-maintenance-grants) on how to submit a proposal.
+> See the [Maintenance Grants Process](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program#hammer_and_wrench-maintenance-grants) on how to submit a proposal.
 
 - **Team Name:** Legal name of your team (e.g. JsonCorp)
-- **Payment Address:** In the case of fiat payment, please share your bank account privately with grants@web3.foundation via your contact email (see below) and enter the date when you shared the information with us (e.g. Fiat 24.12.1971, 11:59) here. Otherwise, provide the BTC, Ethereum (USDC/DAI) or Polkadot/Kusama (USDT) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
-- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1, 2 or 3
+- **Payment Address:** Please provide your Energy Web Chain payment address. Payment will be made in Energy Web Tokens (EWT)
+- **[Level](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/tree/master#level_slider-levels):** 1, 2 or 3
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -14,7 +14,7 @@
 
 If this application is in response to an RFP, please indicate this on the first line of this section.
 
-If this is an application for a follow-up grant (the continuation of an earlier, successful W3F grant), please provide name and/or pull request of said grant on the first line of this section.
+If this is an application for a follow-up grant (the continuation of an earlier, successful EW CF grant), please provide name and/or pull request of said grant on the first line of this section.
 
 ### Overview
 
@@ -22,7 +22,7 @@ Please provide the following:
 
 - If the code name of the project is not descriptive, a tag line (one sentence summary).
 - A brief description of the project.
-- How will the project you want to take for maintenance help the ecosystem of Polkadot / Substrate / Kusama, and what problems does it try to solve?
+- How will the project you want to take for maintenance help the ecosystem of Energy Web Chain / Substrate / Volta, and what problems does it try to solve?
 - An indication of why your team is interested in supporting this project.
 - Outline of why the specific projects should continue being supported.
 
@@ -78,7 +78,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
-- links to improvement proposals or [RFPs](https://github.com/w3f/Grants-Program/tree/master/docs/RFPs) (requests for proposal),
+- links to improvement proposals or [RFPs](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/tree/master/docs/RFPs) (requests for proposal),
 - academic publications relevant to the problem,
 - links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
 - references to conversations you might have had related to this project with anyone from the EW Community Fund Committee,
@@ -115,7 +115,7 @@ Our responsibilities:
 - **Max budget per sprint/period:** Requested max budget in USD per sprint/period (e.g. 7,000 USD). Cost for each period need to be provided in USD; if the grant is paid out in Bitcoin, the amount will be calculated according to the exchange rate at the time of payment.
 - **Hourly rate:** Amount of budget per hour, since it’s unlikely that the maintenance of the project requires the exact same workload each sprint.
 
-> ⚠️ *Note that you will need to provide a comprehensive report of the work done at the end of each month, including the list of issues/bugs/pull requests worked on, time spent on each of these, & finally, the associated cost. The time allocation & price will likely vary from month to month, depending on the nature of the project you're contributing to. The report should be in the form of a Milestone Delivery, again like the typical procedure. W3F will make the payments only after the successful merge of each individual report.*
+> ⚠️ *Note that you will need to provide a comprehensive report of the work done at the end of each month, including the list of issues/bugs/pull requests worked on, time spent on each of these, & finally, the associated cost. The time allocation & price will likely vary from month to month, depending on the nature of the project you're contributing to. The report should be in the form of a Milestone Delivery, again like the typical procedure. EW CF will make the payments only after the successful merge of each individual report.*
 
 ## Future Plans
 
@@ -126,7 +126,7 @@ Please include here
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Maintenance Grants Program?** Web3 Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Maintenance Grants Program?** EW Community Fund Committee Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 

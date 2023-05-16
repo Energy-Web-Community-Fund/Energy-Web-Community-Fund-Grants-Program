@@ -58,10 +58,6 @@ const sidebars = {
       id:'docs/suggesting'
     },
     {
-      type: 'doc',
-      id:'docs/referral-program'
-    },
-    {
       type: 'html',
       value: '<span class="sidebar-divider" />',
     },

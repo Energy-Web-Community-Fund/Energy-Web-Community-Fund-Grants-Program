@@ -14,5 +14,5 @@
 
 ## Checklist
 
-- [ ] I have checked the [RFPs](https://github.com/w3f/Grants-Program/tree/master/docs/rfps) to make sure this is not a duplicate.
-- [ ] I have read and followed the [RFP Suggestion instructions](https://github.com/w3f/Grants-Program#mailbox_with_mail-suggest-a-project).
+- [ ] I have checked the [RFPs](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/tree/master/docs/rfps) to make sure this is not a duplicate.
+- [ ] I have read and followed the [RFP Suggestion instructions](https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program#mailbox_with_mail-suggest-a-project).

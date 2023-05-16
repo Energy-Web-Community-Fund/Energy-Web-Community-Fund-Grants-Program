@@ -14,7 +14,7 @@
    - GSHEET_CLIENT_EMAIL 
    - SPREADSHEET_ID
    - MATRIX_TOKEN
-   - MATRIX_CHANNEL_ID (for both matrix vars, refer to [this](https://github.com/fadenb/Matrix-Chat-Message) guide, W3F account is on 1Password)
+   - MATRIX_CHANNEL_ID (for both matrix vars, refer to [this](https://github.com/fadenb/Matrix-Chat-Message) guide, EW CF account is on 1Password)
    - ACTIONS_STEP_DEBUG: set this to true for more verbose logs on workflow runs
    - ACTIONS_RUNNER_DEBUG: similar as above, haven't tried it
 
@@ -58,7 +58,7 @@ While it requires some assumptions & is somewhat limited in scope, it's possible
             "state": "open",
             "author": "mmagician",
             "number": 174,
-            "body": "# Grant Application Checklist\n- [X] The [application-template.md](https://github.com/w3f/Open-Grants-Program/blob/master/applications/application-template.md) has been copied, renamed ( \"project_name.md\") and updated."
+            "body": "# Grant Application Checklist\n- [X] The [application-template.md](https://github.com/Energy-Web-Community-Fund/Open-Grants-Program/blob/master/applications/application-template.md) has been copied, renamed ( \"project_name.md\") and updated."
         }
     }' > .pr_event.json
     ```
