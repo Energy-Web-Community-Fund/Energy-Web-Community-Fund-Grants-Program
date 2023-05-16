@@ -193,12 +193,6 @@ Please note that:
 - Maintenance Grants are only awarded for fixed timeframes. The requested duration needs to be specified in the application.
 ## :bulb: Help
 
-### Real-time Conversation
-TBD
-
-### Office Hours
-TBD
-
 ### Additional Information
 
 <div align="center">
