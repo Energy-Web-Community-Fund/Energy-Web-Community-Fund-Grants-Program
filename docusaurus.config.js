@@ -4,14 +4,14 @@ const mdxMermaid = require('mdx-mermaid');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Web3 Foundation Grants',
-  tagline: 'Funding Software Development and Research Efforts related to Polkadot and Kusama.',
-  url: 'https://w3f.github.io',
-  baseUrl: '/Grants-Program/',
+  title: 'EW Community Fund Committee Grants',
+  tagline: 'Funding Software Development and Research Efforts related to Energy Web Chain and Volta.',
+  url: 'https://Energy-Web-Community-Fund.github.io',
+  baseUrl: '/Energy-Web-Community-Fund-Grants-Program/',
   onBrokenLinks: 'warn',    // Revert back to 'throw' once initial release is up
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/Web3Foundation.png',
-  organizationName: 'w3f', // Usually your GitHub org/user name.
+  favicon: 'img/EnergyWebCommunityFund.png',
+  organizationName: 'Energy-Web-Community-Fund', // Usually your GitHub org/user name.
   trailingSlash: false,
   projectName: 'Grants-Program', // Usually your repo name.
 
@@ -28,16 +28,16 @@ module.exports = {
     announcementBar: {
       id: 'announcement',
       content:
-        'Check out <a target="_blank" rel="noopener noreferrer" href="https://web3.bamboohr.com/jobs/">our current job openings</a>!',
+        'We will be announcing the launch of the grants program soon! Check Twitter <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/energywebx/"> to stay posted</a>!',
       backgroundColor: '#000',
       textColor: '#ffffff',
       isCloseable: true,
     },
     navbar: {
-      title: 'W3F Grants Program',
+      title: 'EW CF Grants Program',
       logo: {
-        alt: 'W3F Grants Program',
-        src: 'img/Web3Foundation.png',
+        alt: 'EW CF Grants Program',
+        src: 'img/EnergyWebCommunityFund.png',
       },
       items: [
         {
@@ -78,7 +78,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/w3f/Grants-Program',
+              href: 'https://github.com/energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program',
             },
             {
               label: 'Website',
@@ -95,27 +95,23 @@ module.exports = {
           items: [
             {
               label: 'Twitter',
-              href: 'https://twitter.com/Web3foundation',
-            },
-            {
-              label: 'Grants Community Matrix Channel',
-              href: 'https://matrix.to/#/!XpynPDLusWUWfDpaqr:matrix.org?via=web3.foundation&via=matrix.org&via=matrix.parity.io',
+              href: 'https://twitter.com/energywebx',
             },
           ],
         },
       ],
-      copyright: `© ${new Date().getFullYear()} Web3 Foundation`,
+      copyright: `© ${new Date().getFullYear()} EW Community Fund Committee`,
     },
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
     },
     algolia: {
-      appId: '9VKKGZO0U1',
-      apiKey: '89d564c771c26d6eb84fe9cf608c128d',
+      appId: 'R1K0E59SD9',
+      apiKey: 'a2fb2a3099ec3d1ad6f1b84fe782e242',
       indexName: 'grants-program',
       contextualSearch: true,
-      externalUrlRegex: 'https://w3f.github.io',
+      externalUrlRegex: 'https://Energy-Web-Community-Fund.github.io',
       searchParameters: {},
       searchPagePath: 'search',
     },
@@ -127,7 +123,7 @@ module.exports = {
         docs: {
           path: '.',
           routeBasePath: '/', 
-          editUrl: 'https://github.com/w3f/Grants-Program/edit/master/',
+          editUrl: 'https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program/edit/master/',
           // showLastUpdateAuthor: true,
           // showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
