@@ -56,7 +56,7 @@ Please provide a list of the repo(s) that need maintenance and further developme
 
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
 
-If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
+If anyone on your team has applied for a grant at the EW Community Fund Committee previously, please list the name of the project and legal entity here.
 
 ### Team Code Repos
 
@@ -81,7 +81,7 @@ If you've already started implementing your project or it is part of a larger re
 - links to improvement proposals or [RFPs](https://github.com/w3f/Grants-Program/tree/master/docs/RFPs) (requests for proposal),
 - academic publications relevant to the problem,
 - links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the Web3 Foundation,
+- references to conversations you might have had related to this project with anyone from the EW Community Fund Committee,
 - previous interface iterations, such as mock-ups and wireframes.
 
 ## Maintenance Responsibilities :nut_and_bolt:
