@@ -78,11 +78,11 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program',
+              href: 'https://github.com/Energy-Web-Community-Fund/Energy-Web-Community-Fund-Grants-Program',
             },
             {
               label: 'Website',
-              href: 'https://web3.foundation/',
+              href: 'https://energy-web-foundation.gitbook.io/energy-web/community-resources/energy-web-community-fund',
             },
             {
               label: 'Privacy Policy',
